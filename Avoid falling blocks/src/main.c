@@ -123,7 +123,7 @@ typedef struct fall {
     int colour;
 } fall;
 
-//Assignment 2
+// The part that I modified
 void blocks_game(){
    char buff[128];
    int x=0;
